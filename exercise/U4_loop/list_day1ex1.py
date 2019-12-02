@@ -1,0 +1,1 @@
+faver_food = ["chicken","beef","pork"]
